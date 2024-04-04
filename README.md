@@ -1,7 +1,5 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+PERSONALIZED EMOJIS – A DEEP LEARNING METHOD FOR CREATING AND RECOGNISING UNIQUE EMOJIS
+  Facial emoji generation is a human-computer interaction system. Face expressions are a key feature of non-verbal communication, and they play an important role in Human Computer Interaction. Emoji Generation in real time by recognizing the facial expression of a person has always been challenging. Facial expressions are vital to social communication between humans. As the world is emerging with new technology every day, there are more virtual interactions like text messages than the real ones. Emoticons help in social interaction virtually, with less exchange of words. This paper presents an approach of Emoji Generation using Facial Expression Recognition(FER) using Convolutional Neural Networks(CNN) with Machine Learning and Deep learning. This model created using CNN can be used to detect facial expressions in real time. The system can be used for analysis of emotions while users watch movie trailers or video lectures, feedback processing.
 ## About
 <!--Detailed Description about the project-->
 Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
