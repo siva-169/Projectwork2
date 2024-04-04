@@ -23,33 +23,45 @@
 
 ## System Architecture
 
+![img1](https://github.com/siva-169/Projectwork2/assets/113030675/1d57b2a7-dd3c-4eb4-8124-6bfc43d802cd)
 
 
 
 
 ## Output
-
-<!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
+![WhatsApp Image 2024-04-04 at 8 53 43 AM (1)](https://github.com/siva-169/Projectwork2/assets/113030675/3fd3a15a-7d72-4be2-b189-802d3359857f)
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
+![WhatsApp Image 2024-04-04 at 8 53 43 AM](https://github.com/siva-169/Projectwork2/assets/113030675/76843758-3c73-4733-b885-a8e38d4a5894)
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The CNN algorithm was tested with to produce results. Every epoch observed a reduction in the loss throughout the training and test sets. Throughout all of the experiments, the batch size stayed consistent at 256. To acquire satisfactory results, the neural network design received the following changes: 
+● Number of epochs: A positive association was established between the quantity of epochs and the precision of the model. But over fitting arose when there were too many epochs. Conclusion: Minimum overfitting and good accuracy were obtained using eight epochs. 
+● Number of layers: With three hidden layers and one fully linked layer, the neural network architecture is formed. The activation function "relu" was utilised to generate a total of six convolution layers. 
+● Filters: Based on the amount of filters applied to the picture, the neural network's accuracy on the dataset varies. First two network levels featured 64 filters each, while the third layer of the network retained 128 filters. 
+● Accuracy: As the table illustrates, the ultimate, cutting-edge model produced training accuracy of 79.89% and test accuracy of 60.12%. Out of 28709 images in the train set and 2158 out of 3589 images in the test set, the architecture in use was able to classify images correctly. 
+
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+❏ H.-D. Nguyen, S. Yeom, G.-S. Lee, H.-J. Yang, I. Na, and S. H. Kim, "Facial Emotion Recognition Using an Ensemble of MultiLevel Convolutional Neural Networks," International Journal of Pattern Recognition and Artificial Intelligence, 2018.
+
+❏ T. Cao and M. Li, "Facial Expression Recognition Algorithm Based on the Combination of CNN and K-Means," presented at the Proceedings of the 2019 11th International Conference on Machine Learning and Computing, Zhuhai, China, 2019. 
+
+❏ N. Christou and N. Kanojiya, "Human Facial Expression Recognition with Convolutional Neural Networks," Singapore, 2019, pp. 539-545: Springer Singapore 
+
+❏ A. Sajjanhar, Z. Wu, and Q. Wen, "Deep learning models for facial expression recognition," in 2018 Digital Image Computing: Techniques and Applications (DICTA), 2018, pp. 1-6: I EEE. 
+
+❏ J. Chen, Y. Lv, R. Xu, and C. Xu, "Automatic social signal analysis: Facial expression recognition using difference convolution neural network," Journal of Parallel and Distributed Computing, vol. 131, pp. 97-102, 2019. 
+
+❏ Al-Sumaidaee, Saadoon AM, et al, Multi-gradient features and elongated quinary pattern encoding for image-based facial expression recognition, Pattern Recognition, 2017, pp. 249—263. 
+❏ Barsoum, Emad, et al, Training deep networks for facial expression recognition with crowd-sourced label distribution, ACM International Conference on Multimodal Interaction ACM, 2016, pp. 279—283.
+
+❏ Martinez, Brais, et al, Automatic analysis of facial actions: A survey, IEEE Transactions on Affective Computing, 2017. 
 
 
 
