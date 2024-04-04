@@ -1,5 +1,5 @@
 ## PERSONALIZED EMOJIS – A DEEP LEARNING METHOD FOR CREATING AND RECOGNISING UNIQUE EMOJIS
-  An integrating ML project
+  The Integration of ML system, aimed at producing suitable emojis for facial expressions .
 ## About
  Facial emoji generation is a human-computer interaction system. Face expressions are a key feature of non-verbal communication, and they play an important role in Human Computer Interaction. Emoji Generation in real time by recognizing the facial expression of a person has always been challenging. Facial expressions are vital to social communication between humans. As the world is emerging with new technology every day, there are more virtual interactions like text messages than the real ones. Emoticons help in social interaction virtually, with less exchange of words. This paper presents an approach of Emoji Generation using Facial Expression Recognition(FER) using Convolutional Neural Networks(CNN) with Machine Learning and Deep learning. This model created using CNN can be used to detect facial expressions in real time. The system can be used for analysis of emotions while users watch movie trailers or video lectures, feedback processing.
 
@@ -22,7 +22,7 @@
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+
 
 ![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
 
